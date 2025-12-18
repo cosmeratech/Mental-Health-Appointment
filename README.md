@@ -7,7 +7,7 @@ A comprehensive and responsive web interface designed to facilitate accessible m
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 This project leverages a hybrid styling approach for maximum flexibility and responsiveness:
 
@@ -16,14 +16,14 @@ This project leverages a hybrid styling approach for maximum flexibility and res
 - **Bootstrap 5**: Utilized for rapid layout scaffolding, responsive grid systems, and pre-built components (Modals, Navbars, Cards).
 - **Tailwind CSS**: Employed for utility-first styling, fine-grained spacing, typography, and modern aesthetic touches.
 
-## ✨ Features
+## Features
 
 - **Responsive Design**: Fully adapting layouts for mobile, tablet, and desktop devices.
 - **Therapist & Service Browsing**: Clean, card-based UI to display doctor profiles and specializations.
 - **Appointment Booking UI**: Intuitive forms for selecting dates, times, and providing patient details.
 - **Accessible Interface**: Designed with focus management and semantic tags for better accessibility.
 
-## 📂 File Structure
+## File Structure
 
 ```text
 /
