@@ -1,0 +1,78 @@
+body{
+    padding-top:50px;
+    width: 100%;
+    height: 100%;
+}
+
+.hero-section{
+    background-color: #758774;
+    height:90vh;
+}
+
+.navbar{
+    background-color: #6155cb;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.btn-teal{
+    background-color: #0d9488;
+    color: white;
+    padding: 10px 20px;
+}
+
+.btn-teal:hover{
+    background-color: #0a7d70;
+    color: white;
+}
+ 
+.btn-outline-green{
+    border: 2px solid #4f8b65;
+    color: #22c55e;
+    padding: 10px 20px;
+}
+
+.btn-outline-green:hover{
+    background-color: #22c55e;
+    color: white;
+}
+
+img{
+    max-width: 50%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.service-card{
+    background:grey;
+    padding:30px;
+    border-radius:18px;
+    height:auto;
+    box-shadow:#0a7d70;
+}
+
+.service-card:hover{
+background-color: #758774;
+}
+
+.doctor-card{
+    background-color:white;
+    padding:30px;
+    border-radius:18px;
+    height:auto;
+    box-shadow: 0 10px 25px;
+}
+
+.doctor-card img{
+    width:100%;
+    height:225px;
+    object-fit:cover;
+    border-radius:20px; 
+}
+
+footer{
+    margin-bottom:0;
+    padding-bottom:0;
+    margin-top:auto;
+}
